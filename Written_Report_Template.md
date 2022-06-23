@@ -20,7 +20,7 @@ During the years from 2009 - 2017, we found that campaigns  with lower goals see
 ### Analysis of Outcomes Based on Goals
 ### During our investigation on successful fundraising campaigns, we found that *Fever* had a higher successful rate when the goals were lower.  The opposite can be said for higher goals.  These campaigns had a higher failure rate as seen in this line chart.
 
-![](https://github.com/ramon0101alonso/kickstarter-analysis/blob/main/Screen%20Shot%202022-06-22%20at%2011.27.46%20PM.png)
+![](https://github.com/ramon0101alonso/kickstarter-analysis/blob/main/Screen%20Shot%202022-06-22%20at%2011.36.41%20PM.png)
 
 ### Challenges and Difficulties Encountered
 
