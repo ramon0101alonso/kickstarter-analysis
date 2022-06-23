@@ -14,6 +14,7 @@ During the years from 2009 - 2017, we found that campaigns  with lower goals see
 ### Launch date aoutcomes seem to be average for the yeas 2009 - 2017.  Out of 4,114 campaigns, only 50 are still live which really didn't affect the outcome of success.
 ### A pivot table was used for this analysis.
 
+![](https://github.com/ramon0101alonso/kickstarter-analysis/blob/main/Screen%20Shot%202022-06-22%20at%2011.27.46%20PM.png)
 
 
 ### Analysis of Outcomes Based on Goals
