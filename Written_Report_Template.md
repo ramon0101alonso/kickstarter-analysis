@@ -18,6 +18,7 @@ During the years from 2009 - 2017, we found that campaigns  with lower goals see
 
 
 ### Analysis of Outcomes Based on Goals
+### During our investigation on successful fundraising campaigns, we found that *Fever* had a higher successful rate when the goals were lower.  The opposite can be said for higher goals.  These campaigns had a higher failure rate as seen in this line chart.
 
 ### Challenges and Difficulties Encountered
 
