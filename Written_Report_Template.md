@@ -1,12 +1,19 @@
-# Kickstarting with Excel
+# Louise Kickstarter
 
 ## Overview of Project
 
-### Purpose
+### The purpose of *Louise’s* play Fever analysis was to find out how two campaigns behaved in different manners.  Data was accumulated for the use of Pivot Charts and Pivot Tables
 
-## Analysis and Challenges
+###During the years from 2009 - 2017, we found that campaigns  with lower goals seem to have better results than those with higher goals.  Fundraiser with higher goals resulted in a higher failure rate.
+
+# Analysis and Challenges
+
+## Analysis of *Fever*
 
 ### Analysis of Outcomes Based on Launch Date
+### Launch date aoutcomes seem to be average for the yeas 2009 - 2017.  Out of 4,114 campaigns, only 50 are still live which really didn't affect the outcome of success.
+### A pivot table was used for this analysis.
+
 
 ### Analysis of Outcomes Based on Goals
 
