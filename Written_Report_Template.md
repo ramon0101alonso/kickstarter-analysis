@@ -4,7 +4,7 @@
 
 ### The purpose of *Louise’s* play Fever analysis was to find out how two campaigns behaved in different manners.  Data was accumulated for the use of Pivot Charts and Pivot Tables
 
-###During the years from 2009 - 2017, we found that campaigns  with lower goals seem to have better results than those with higher goals.  Fundraiser with higher goals resulted in a higher failure rate.
+During the years from 2009 - 2017, we found that campaigns  with lower goals seem to have better results than those with higher goals.  Fundraiser with higher goals resulted in a higher failure rate.
 
 # Analysis and Challenges
 
