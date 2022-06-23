@@ -20,14 +20,14 @@ During the years from 2009 - 2017, we found that campaigns  with lower goals see
 ### Analysis of Outcomes Based on Goals
 ### During our investigation on successful fundraising campaigns, we found that *Fever* had a higher successful rate when the goals were lower.  The opposite can be said for higher goals.  These campaigns had a higher failure rate as seen in this line chart.
 
+![](https://github.com/ramon0101alonso/kickstarter-analysis/blob/main/Screen%20Shot%202022-06-22%20at%2011.27.46%20PM.png)
+
 ### Challenges and Difficulties Encountered
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+### The pivot charts show a great deal of information but they do have limitations.  For instance, there are a lot of small campaigns that could be counted out so the natural distribution can be stronger.  Using line graphs are too busy for this high amount of data. Obtaining data and placing it in excel, one must be very careful.  One wrong letter or number and the data could be skewed.  
 
-- What can you conclude about the Outcomes based on Goals?
+### Example *=COUNTIFS(Kickstarter!$F:$F,"=successful",Kickstarter!$D:$D,">=1000", Kickstarter!D:D,"<5000", Kickstarter!$U:$U, "=plays")*
 
-- What are some limitations of this dataset?
-
-- What are some other possible tables and/or graphs that we could create?
+### Pie charts could be used but caution, they are difficult to read so they may be used for small amounts of comparison.
